@@ -1,5 +1,4 @@
-Codis d'exemple mostrats durant la exposició del llenguatge de programació de
-dia 27/09/2016.
+# A Go playground
 
 Sample code snippets used to illustrate the Go programming language during a presentation on 27/09/2016
 
