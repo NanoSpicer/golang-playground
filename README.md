@@ -4,16 +4,16 @@ Sample code snippets used to illustrate the Go programming language during a pre
 
 Compile a source file by using:
 
-    go build arxiu.go
+    go build sourcefile.go
 
 To run a precompiled executable:
 
-    ./arxiu_compilat args    #   UNIX sys
-    arxiu_compilat.exe args  #   MS-DOS sys
+    ./binary args    #   UNIX sys
+    binary.exe args  #   MS-DOS sys
 
 Compile and run a source file, without saving anything on disk:
 
-    go run arxiu.go
+    go run source_file.go
 
 More Info:
     * [A tour of Go](https://tour.golang.org/welcome/1)
